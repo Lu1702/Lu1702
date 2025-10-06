@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lu1702&label=Profile%20views&color=0e75b6&style=flat" alt="lu1702" /> </p>
 
-- 💬 Ask me about **react, c#, c, ASP.NET Core, SQLServer, MySQL, Bloackchain**
+- 💬 Ask me about **react, c#, c, ASP.NET Core, SQLServer, MySQL, Blockchain**
 
 - 📫 How to reach me **lamdinhdt2004@gmail.com**
 
